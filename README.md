@@ -118,7 +118,7 @@ A: Local order routing engines use pre-execution math to ensure price spread val
 ### 1. Installation Environment
 
 ```bash
-git clone https://github.com/Cortex-AI-Labs/crypto-arbitrage-bot-automated-trading.git
+git clone https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading.git
 cd crypto-arbitrage-bot-automated-trading
 pip install -r requirements.txt
 ```
