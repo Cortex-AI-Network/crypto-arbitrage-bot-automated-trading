@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Status-Live_Trading-green?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Focus-AI_Arbitrage_Engine-blue?style=for-the-badge" alt="Focus">
   <img src="https://img.shields.io/badge/Network-TON_&_SOL_&_EVM-orange?style=for-the-badge" alt="Protocol">
-  <img src="https://github.com/Cortex-AI-Labs/crypto-arbitrage-bot-automated-trading/actions/workflows/main.yml/badge.svg" alt="Code Quality Check">
+  <img src="https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/actions/workflows/main.yml/badge.svg" alt="Code Quality Check">
 </p>
 
 <p align="center">
@@ -56,13 +56,13 @@ To launch the secure native production client environment:
 Visualizing the power of Cortex AI
 
 1. Real-Time Execution Dashboard
-![Cortex AI Dashboard displaying a 97.4% win rate, automated execution logs, and portfolio distribution across Solana, Arbitrum, and Base networks.](https://github.com/Cortex-AI-Labs/crypto-arbitrage-bot-automated-trading/blob/main/assets/Dashboard.png?raw=true)
+![Cortex AI Dashboard displaying a 97.4% win rate, automated execution logs, and portfolio distribution across Solana, Arbitrum, and Base networks.](https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/blob/main/assets/Dashboard.png?raw=true)
 
 2. Advanced Arbitrage Signal Monitor
-![Cortex AI Signal Monitor comparing prices across CEX and DEX platforms, providing actionable insights for manual trading with strength levels.](https://github.com/Cortex-AI-Labs/crypto-arbitrage-bot-automated-trading/blob/main/assets/Signal%20Monitor.png?raw=true)
+![Cortex AI Signal Monitor comparing prices across CEX and DEX platforms, providing actionable insights for manual trading with strength levels.](https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/blob/main/assets/Signal%20Monitor.png?raw=true)
 
 3. Pro Plan: Airdrop Hunter & Automation
-![The Airdrop Hunter module in Cortex AI Pro, featuring automated wallet rotation and task execution for major crypto protocols.](https://github.com/Cortex-AI-Labs/crypto-arbitrage-bot-automated-trading/blob/main/assets/Airdrop%20Hunter.png?raw=true)
+![The Airdrop Hunter module in Cortex AI Pro, featuring automated wallet rotation and task execution for major crypto protocols.](https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/blob/main/assets/Airdrop%20Hunter.png?raw=true)
 
 ## 📊 Institutional Capabilities & Trading Logic
 
