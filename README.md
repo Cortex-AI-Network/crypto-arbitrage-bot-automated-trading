@@ -28,7 +28,7 @@
 </p>
 
 <div align="center">
-  <img src="Cortex.gif" alt="Cortex AI Arbitrage Trading Demo" width="80%" style="border-radius: 10px; border: 2px solid #00ffa3;">
+  <img src="Cortex.gif" alt="Cortex AI Arbitrage Trading Demo" width="100%" style="border-radius: 10px; border: 2px solid #00ffa3;">
 </div>
 
 ## 🚀 Next-Gen Trading Infrastructure
