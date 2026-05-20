@@ -12,14 +12,6 @@
   <img src="https://img.shields.io/badge/Network-TON_&_SOL_&_EVM-orange?style=for-the-badge" alt="Protocol">
 </p>
 
-<div align="center">
-
-![GitHub](https://img.shields.io/badge/Status-Live_Trading-brightgreen)
-![Python](https://img.shields.io/badge/Language-Python_3.10-blue)
-![Version](https://img.shields.io/badge/Version-3.4_Stable-orange)
-![Security](https://img.shields.io/badge/MEV-Protected-blueviolet)
-
-</div>
 
 <p align="center">
   <img src="https://i.postimg.cc/s2sv7GP8/cortex.png" alt="Cortex AI Arbitrage Dashboard Interface">
