@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Status-Live_Trading-green?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Focus-AI_Arbitrage_Engine-blue?style=for-the-badge" alt="Focus">
   <img src="https://img.shields.io/badge/Network-TON_&_SOL_&_EVM-orange?style=for-the-badge" alt="Protocol">
-  <img src="https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/actions/workflows/main.yml/badge.svg" alt="Code Quality Check">
 </p>
 
 <p align="center">
