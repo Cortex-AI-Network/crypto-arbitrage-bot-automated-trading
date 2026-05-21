@@ -56,6 +56,16 @@ To launch the secure native production client environment:
 2. **Environment Activation:** Initiate `Cortex_AI_v3.4.exe` to trigger the cryptographic node generation setup wizard.
 3. **Core Syncing:** Connect exchange API read/write keys locally. Hardware level memory encryption guarantees keys never leave your machine.
 
+<p align="center">
+  <a href="https://arbitrage-bot.pro/">
+    <img src="https://img.shields.io/badge/Official_Website-arbitrage--bot.pro-00E676?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Cortex AI Official Website">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+</p>
+
 ## 🎨 Interface & User Experience
 Visualizing the power of Cortex AI
 
@@ -116,6 +126,8 @@ A: Local order routing engines use pre-execution math to ensure price spread val
 * **System RAM:** 2 GB minimum allocated application RAM.
 * **Disk Space:** 500 MB minimum uncompressed storage space.
 * **Network:** Low-jitter broadband connection for stable websocket telemetry.
+
+
 
 ## 🛠 Developer Setup (CLI / Server)
 
