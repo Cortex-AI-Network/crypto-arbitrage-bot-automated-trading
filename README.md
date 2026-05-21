@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://arbitrage-bot.pro/download.php">
-    <img src="https://img.shields.io/badge/DOWNLOAD-🤖Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI">
+    <img src="https://img.shields.io/badge/DOWNLOAD-🤖Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI" width="350">
   </a>
 </p>
 
