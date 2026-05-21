@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cortex-ai-arbitrage": {
+      "command": "python",
+      "args": ["src/scanner.py"],
+      "description": "Real-time AI-powered crypto arbitrage scanner"
+    }
+  }
+}
