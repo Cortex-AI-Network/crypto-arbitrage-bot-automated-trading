@@ -14,7 +14,9 @@
 
 
 <p align="center">
+  
   <img src="https://i.postimg.cc/s2sv7GP8/cortex.png" alt="Cortex AI Arbitrage Dashboard Interface">
+  
 </p>
 
 
