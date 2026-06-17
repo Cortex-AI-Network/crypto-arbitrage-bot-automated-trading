@@ -1,4 +1,4 @@
-# crypto-arbitrage-bot-automated-trading
+# crypto arbitrage bot automated trading
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows" alt="Windows">
